@@ -39,7 +39,7 @@ public class AutoWrapLinearLayout extends LinearLayout {
 
 		//自控件的margin
 		int cellMarginLeft = 0;
-		int cellMarginRight = 15;
+		int cellMarginRight = 0;
 		int cellMarginTop = 0;
 		int cellMarginBottom = 0;
 
